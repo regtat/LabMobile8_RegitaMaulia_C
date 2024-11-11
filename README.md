@@ -42,10 +42,11 @@ Mengarahkan ke MahasiswaPage sebagai halaman utama ketika aplikasi dibuka
 ![image](https://github.com/user-attachments/assets/feffd39c-2cd7-40b7-841f-0b84f3f044d9)
 
 ### Form Tambah Mahasiswa
-![form tambah](image-2.png)
+![create](image-3.png)
 
 ### Tambah Mahasiswa
-![create](image-3.png)
+![image](https://github.com/user-attachments/assets/60a3923e-6916-4f15-b516-baa2b049c2b4)
+
 
 ### Tampil Data Mahasiswa
 ![read](image-4.png)
