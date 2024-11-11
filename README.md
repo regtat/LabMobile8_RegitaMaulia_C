@@ -39,7 +39,7 @@ Mengarahkan ke MahasiswaPage sebagai halaman utama ketika aplikasi dibuka
 
 ## Tampilan
 ### Home
-![home](image-1.png)
+![image](https://github.com/user-attachments/assets/feffd39c-2cd7-40b7-841f-0b84f3f044d9)
 
 ### Form Tambah Mahasiswa
 ![form tambah](image-2.png)
