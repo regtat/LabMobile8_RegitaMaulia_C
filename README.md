@@ -54,7 +54,7 @@ Mengarahkan ke MahasiswaPage sebagai halaman utama ketika aplikasi dibuka
 ![image](https://github.com/user-attachments/assets/1a649679-8732-4ca7-a08f-db869e06083a)
 
 ### Berhasil Mengubah Data
-![berhasil update](image-6.png)
+![image](https://github.com/user-attachments/assets/3353e921-1199-4ab5-b1d3-8b16f3520de7)
 
 ### Konfirmasi Hapus
 ![konfirmasi hapus](image-7.png)
