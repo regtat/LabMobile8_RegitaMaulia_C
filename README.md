@@ -47,12 +47,11 @@ Mengarahkan ke MahasiswaPage sebagai halaman utama ketika aplikasi dibuka
 ### Tambah Mahasiswa
 ![image](https://github.com/user-attachments/assets/60a3923e-6916-4f15-b516-baa2b049c2b4)
 
-
 ### Tampil Data Mahasiswa
 ![read](image-4.png)
 
 ### Edit Mahasiswa
-![update](image-5.png)
+![image](https://github.com/user-attachments/assets/1a649679-8732-4ca7-a08f-db869e06083a)
 
 ### Berhasil Mengubah Data
 ![berhasil update](image-6.png)
